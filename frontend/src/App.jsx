@@ -1,9 +1,7 @@
-import "./test.css"
+import React from 'react';
 function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-red-500">
-      < div className="font-bold text-white">Tailwind is working!</div>
-    </div>
+    <div className='bg-green-700 text-white'>hello</div>
   );
 }
 
